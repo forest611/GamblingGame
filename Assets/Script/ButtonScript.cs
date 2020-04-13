@@ -72,6 +72,7 @@ namespace Script
                 case "Cancel":
                     OpenMenu("MainMenu");
                     break;
+                
             }
             
         }
